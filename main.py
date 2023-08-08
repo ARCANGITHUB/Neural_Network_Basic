@@ -8,6 +8,8 @@ l_rate = 0.01
 epochs = 20
 epoch_loss = []
 
+# This is a change in the code
+
 data, weights = generate_data(50, 3)
 
 
